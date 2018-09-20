@@ -1,0 +1,41 @@
+_repo: Tartuffe-Viisinaytoksinen-huvinaytelma_52807
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Manninen, Otto
+    alias: Manninen, O.
+    birthdate: 1872
+    deathdate: 1950
+    gutenberg_agent_id: '4617'
+    url: http://www.gutenberg.org/2009/agents/4617
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin, Jean-Baptiste
+    - Poquelin de Molière, Jean Baptiste
+    - Moliere
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2016-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52807'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'French drama -- 17th century -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: 'Tartuffe: Viisinäytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/52807
